@@ -4,7 +4,7 @@ int main(){
     int b,i,u,n;
     scanf("%d", &n);
     if(n==1000){
-        printf("ming");
+        printf("bir ming");
     }else{
         b=n/100;
         i=n%100/10;
